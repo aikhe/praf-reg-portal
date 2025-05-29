@@ -1,7 +1,6 @@
-
 # PRAF Technology - Flood Prevention System
 
-A web application for PRAF Technology's flood prevention system that allows users to register their Philippine phone numbers (+63) to receive flood alerts.
+A web application for PRAF Technology's flood prevention system that allows users to register their phone numbers (+63) to receive flood alerts.
 
 ## Setup Instructions
 
